@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/awesomeDigitalClock/static/css/main.f83aff02.chunk.css",
+    "main.js": "/awesomeDigitalClock/static/js/main.00df6df8.chunk.js",
+    "main.js.map": "/awesomeDigitalClock/static/js/main.00df6df8.chunk.js.map",
+    "runtime-main.js": "/awesomeDigitalClock/static/js/runtime-main.a8c182cc.js",
+    "runtime-main.js.map": "/awesomeDigitalClock/static/js/runtime-main.a8c182cc.js.map",
+    "static/js/2.491bc4f3.chunk.js": "/awesomeDigitalClock/static/js/2.491bc4f3.chunk.js",
+    "static/js/2.491bc4f3.chunk.js.map": "/awesomeDigitalClock/static/js/2.491bc4f3.chunk.js.map",
+    "index.html": "/awesomeDigitalClock/index.html",
+    "static/css/main.f83aff02.chunk.css.map": "/awesomeDigitalClock/static/css/main.f83aff02.chunk.css.map",
+    "static/js/2.491bc4f3.chunk.js.LICENSE.txt": "/awesomeDigitalClock/static/js/2.491bc4f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8c182cc.js",
+    "static/js/2.491bc4f3.chunk.js",
+    "static/css/main.f83aff02.chunk.css",
+    "static/js/main.00df6df8.chunk.js"
+  ]
+}

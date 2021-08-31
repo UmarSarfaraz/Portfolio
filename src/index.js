@@ -73,32 +73,32 @@
 
 
 //Todo list
-// import React from "react";
-// import ReactDOM from "react-dom";
-// import  Ap from "./Ap";
-// import "./todo.css";
+import React from "react";
+import ReactDOM from "react-dom";
+import  Ap from "./Ap";
+import "./todo.css";
 
-// ReactDOM.render(
-//     <>
-//     <Ap/>
-//     </>,
-//     document.getElementById("root")
-// );
+ReactDOM.render(
+    <>
+    <Ap/>
+    </>,
+    document.getElementById("root")
+);
 
 
 
 //Digital clock
-import React from "react";
-import ReactDOM from "react-dom";
-import Demo from "./Demo";
-import "./clock.css";
+// import React from "react";
+// import ReactDOM from "react-dom";
+// import Demo from "./Demo";
+// import "./clock.css";
 
-ReactDOM.render(
-  <>
-  <Demo/>
-  </>,
-  document.getElementById("root")
-);
+// ReactDOM.render(
+//   <>
+//   <Demo/>
+//   </>,
+//   document.getElementById("root")
+// );
 
 
 
