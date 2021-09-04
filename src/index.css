@@ -330,7 +330,7 @@ a{
     #card{
         /* height:430px; */
         width:235px;
-        height: 395px;
+        height: 450px;
     }
     #cardimg{
        
@@ -341,5 +341,18 @@ a{
         width:233px;
     }
 
+
+    #cardp{
+        width:218px ;
+        height:570px;
+    }
+    #cardimgc{
+        
+        width: 216px;
+    }
+    #cardimgp{
+        width:216px;
+        
+    }
 }
     
