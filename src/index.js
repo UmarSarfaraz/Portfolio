@@ -1,19 +1,19 @@
-// import React from 'react';
-// import ReactDOM from 'react-dom';
-// import App from "./App";
-// import './index.css';
-// import { BrowserRouter } from 'react-router-dom';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from "./App";
+import './index.css';
+import { BrowserRouter } from 'react-router-dom';
 
-// ReactDOM.render(
-//   <>
-//     <BrowserRouter>
-//     <App/>
-//     </BrowserRouter>
-//     </>
+ReactDOM.render(
+  <>
+    <BrowserRouter>
+    <App/>
+    </BrowserRouter>
+    </>
 
-// ,
-//   document.getElementById("root")
-// );
+,
+  document.getElementById("root")
+);
 
 
 
@@ -28,12 +28,12 @@
 
 // ReactDOM.render(
 //     <>
-//     <h1 className="heading">List of Top 5 Netflix Series in 2020</h1>
+//     <h1 className="heading">List of Top 5 Netflix Series</h1>
 //     <Cards 
 //       imgsrc="https://wallpapercave.com/wp/wp4056410.jpg"
 //       title="Netflix Original Series"
 //       sname="DARK"
-//       link="https://www.netflix.com/in/title/80990668?source=35"
+//       link="https://www.netflix.com/pk/title/80100172"
 //     />
 
 // <Cards 
@@ -44,10 +44,10 @@
 //     />
 
 // <Cards 
-//       imgsrc="https://www.hitc.com/static/uploads/hitcn/1816/extracurricular_netflix_780_154494.jpg"
+//       imgsrc="https://upload.wikimedia.org/wikipedia/en/e/ec/Save_Me_Poster.jpg"
 //       title="Netflix Original Series"
-//       sname="Extra Curricular"
-//       link="https://www.netflix.com/in/title/80990668?source=35"
+//       sname="Save Me"
+//       link="https://www.netflix.com/pk/title/81167101"
 //     />
 
 // <Cards 
@@ -61,7 +61,7 @@
 //       imgsrc="https://i.pinimg.com/474x/7b/19/58/7b19584ec5ffba063a121508e78fe7a4.jpg"
 //       title="Netflix Original Series"
 //       sname="My First-2 Love"
-//       link="https://www.netflix.com/in/title/80990668?source=35"
+//       link="https://www.netflix.com/pk/title/81026700"
 //     />
 
 
@@ -73,17 +73,17 @@
 
 
 //Todo list
-import React from "react";
-import ReactDOM from "react-dom";
-import  Ap from "./Ap";
-import "./todo.css";
+// import React from "react";
+// import ReactDOM from "react-dom";
+// import  Ap from "./Ap";
+// import "./todo.css";
 
-ReactDOM.render(
-    <>
-    <Ap/>
-    </>,
-    document.getElementById("root")
-);
+// ReactDOM.render(
+//     <>
+//     <Ap/>
+//     </>,
+//     document.getElementById("root")
+// );
 
 
 
